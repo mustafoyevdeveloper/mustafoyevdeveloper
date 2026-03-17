@@ -18,7 +18,7 @@
 
 ### 🎬 MovieMedia  -  https://moviemedia.live
 Full-stack movie streaming platform built with Next.js, Node.js, and MongoDB.  
-Implemented authentication, video streaming, and responsive UI. 
+Implemented authentication, video streaming, and optimized performance for better user experience.
 
 ### 💬 Kvoice  -  https://kvoice.live
 Real-time communication platform using WebSockets.  
