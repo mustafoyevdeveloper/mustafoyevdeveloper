@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Jo'rabek 👋
 
-<!--
-**mustafoyevdeveloper/mustafoyevdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web Developer  
+🚀 Building scalable web applications  
+⚡ Focused on performance, clean architecture, and user experience  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Frontend:**  
+React, Next.js, TypeScript, Tailwind CSS  
+
+**Backend:**  
+Node.js, Express  
+
+**Database:**  
+PostgreSQL, MongoDB  
+
+---
+
+## 🔥 Featured Projects
+
+### 🎬 MovieMedia  
+Movie streaming platform built with Next.js, Node.js, and MongoDB  
+
+### 💬 Kvoice  
+Real-time communication platform using WebSockets  
+
+### 🧼 Freshco Cleaning  
+Full-stack booking system for cleaning services  
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mustafoyevdeveloper&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- Email: mustafoyevdevelopment@gmail.com  
+- Portfolio: https://everest-evolution.vercel.app  
+- Telegram: https://t.me/mustafoyev_dfx  
+
+---
