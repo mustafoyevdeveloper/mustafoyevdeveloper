@@ -42,6 +42,7 @@ Implemented service management, responsive UI, and optimized workflows for deliv
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=mustafoyevdeveloper&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafoyevdeveloper&layout=compact&theme=tokyonight)
 
 ---
 
