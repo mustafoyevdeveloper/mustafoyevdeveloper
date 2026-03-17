@@ -48,6 +48,9 @@ Implemented service management, responsive UI, and optimized workflows for deliv
 ## 📫 Contact
 
 📧 Email: mustafoyevdevelopment@gmail.com
+
 🌐 Portfolio: https://everest-evolution.vercel.app
+
 💼 LinkedIn: https://linkedin.com/in/your-username
+
 💬 Telegram: https://t.me/mustafoyev_dfx 
