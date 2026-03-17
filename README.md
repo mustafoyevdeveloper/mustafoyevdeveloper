@@ -8,14 +8,9 @@
 
 ## 🛠 Tech Stack
 
-**Frontend:**  
-React, Next.js, TypeScript, Tailwind CSS  
-
-**Backend:**  
-Node.js, Express  
-
-**Database:**  
-PostgreSQL, MongoDB  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
+**Backend:** Node.js, Express
+**Database:** PostgreSQL, MongoDB
 
 ---
 
