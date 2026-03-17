@@ -21,19 +21,19 @@ PostgreSQL, MongoDB
 
 ## 🔥 Featured Projects
 
-### 🎬 MovieMedia  
+### 🎬 MovieMedia  -  moviemedia.live
 Full-stack movie streaming platform built with Next.js, Node.js, and MongoDB.  
 Implemented authentication, video streaming, and responsive UI. 
 
-### 💬 Kvoice  
+### 💬 Kvoice  -  kvoice.live
 Real-time communication platform using WebSockets.  
 Built messaging system with instant updates and scalable architecture.
 
-### 🧼 Freshco Cleaning  
+### 🧼 Freshco Cleaning  -  fresco-cleaning.com
 Full-stack booking system for cleaning services.  
 Developed scheduling, user management, and service booking features.
 
-### 🚚 Asliddin Logistic  
+### 🚚 Asliddin Logistic  -  asliddin-logistic.online
 Full-stack logistics platform built with Next.js and Node.js.  
 Implemented service management, responsive UI, and optimized workflows for delivery operations.
 
@@ -48,9 +48,6 @@ Implemented service management, responsive UI, and optimized workflows for deliv
 ## 📫 Contact
 
 📧 Email: mustafoyevdevelopment@gmail.com
-
 🌐 Portfolio: https://everest-evolution.vercel.app
-
 💼 LinkedIn: https://linkedin.com/in/your-username
-
 💬 Telegram: https://t.me/mustafoyev_dfx 
