@@ -8,9 +8,9 @@
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS
-**Backend:** Node.js, Express
-**Database:** PostgreSQL, MongoDB
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Database:** PostgreSQL, MongoDB  
 
 ---
 
@@ -43,10 +43,7 @@ Implemented service management, responsive UI, and optimized workflows for deliv
 
 ## 📫 Contact
 
-📧 Email: mustafoyevdevelopment@gmail.com
-
-🌐 Portfolio: https://everest-evolution.vercel.app
-
-💼 LinkedIn: https://www.linkedin.com/in/everest-evolution
-
-💬 Telegram: https://t.me/mustafoyev_dfx 
+📧 Email: mustafoyevdevelopment@gmail.com  
+🌐 Portfolio: https://everest-evolution.vercel.app  
+💼 LinkedIn: https://www.linkedin.com/in/everest-evolution  
+💬 Telegram: https://t.me/mustafoyev_dfx  
