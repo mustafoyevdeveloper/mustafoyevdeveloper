@@ -24,7 +24,7 @@ Implemented authentication, video streaming, and optimized performance for bette
 Real-time communication platform using WebSockets.  
 Built messaging system with instant updates and scalable architecture.
 
-### 🧼 Freshco Cleaning  -  https://fresco-cleaning.com
+### 🧼 Freshco Cleaning  -  https://freshco-cleaning.com
 Full-stack booking system for cleaning services.  
 Developed scheduling, user management, and service booking features.
 
