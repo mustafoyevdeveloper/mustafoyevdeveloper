@@ -20,7 +20,7 @@
 Full-stack movie streaming platform built with Next.js, Node.js, and MongoDB.  
 Implemented authentication, video streaming, and optimized performance for better user experience.
 
-### 💬 Kvoice  -  https://kvoice.live
+### 💬 Kvoice  -  https://kvoice.vercel.app
 Real-time communication platform using WebSockets.  
 Built messaging system with instant updates and scalable architecture.
 
